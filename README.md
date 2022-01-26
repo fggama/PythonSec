@@ -3,6 +3,11 @@
 
 ## Scripts
 - *python_nmap* NMAP
+- *system_info.py* psutil (process and system utilities), platform
+- *port_scan.py* scapy
+- *programs_list.py* subprocess
+- *programs_list_2.py* winreg
+- *scapy_arp.py* scapy
 
 ## Enlaces/Links
 - Security Scripts - https://github.com/securitystreak/security-scripts
