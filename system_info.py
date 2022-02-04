@@ -3,6 +3,7 @@ import platform
 from datetime import datetime
 import os
 import wmi
+import subprocess
 
 
 def get_size(bytes, suffix="B"):
@@ -130,3 +131,7 @@ for drive in c.Win32_DiskDrive():
 print("-"*40, "Win32_LogicalDisk", "-"*40)
 for disk in c.Win32_LogicalDisk():
     print(disk)
+
+
+print(subprocess.check_output('whoami.exe /groups /fo list', text=True))
+

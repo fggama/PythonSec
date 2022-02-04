@@ -1,10 +1,12 @@
 
 # PythonSec
 
-> Información, enlaces y programas sobre Seguridad y Pentesting con Python
+> Información, enlaces y programas sobre Seguridad, acceso al Windows Registry y Pentesting con Python
 
 ## Scripts
 
+- *ClassProgressBar.py* mensaje estatico con barra de progreso
+- *exe_as_admin.py* ejecuta como Administrador, el programa enviado como parametro
 - *port_scan.py* scapy
 - *programs_list.py* subprocess
 - *programs_list_2.py* winreg
@@ -12,6 +14,7 @@
 - *scapy_arp.py* scapy
 - *system_info.py* psutil (process and system utilities), platform
 - *usb_lookup.py* de 'Preston Miller and Chapin Bryce'
+- *wallpaper_change.py* cambia las claves de 'Wallpaper' y 'Picture', del Registry, a la imagen del parametro
 
 ## Enlaces/Links
 
