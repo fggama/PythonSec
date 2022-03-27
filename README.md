@@ -5,11 +5,16 @@
 
 ## Scripts
 
-Mensaje estatico de consola con barra de progreso
->*ClassProgressBar.py*
 
-Ejecuta como Administrador, el programa enviado como parametro
->*exe_as_admin.py* 
+>*ClassProgressBar.py*<br>
+>Mensaje estático de consola con barra de progreso
+
+
+>*usb_lookup.py* de 'Preston Miller and Chapin Bryce'
+ 
+>*exe_as_admin.py*<br>
+>Ejecuta como Administrador, el programa enviado como parametro
+
 ### Ejemplos del uso de algunos módulos
 Scapy
 > - *port_scan.py*
@@ -19,19 +24,18 @@ Subprocess
 >*programs_list.py*
 
 Winreg
->*programs_list_2.py* winreg
+>- *programs_list_2.py* winreg
+>- *wallpaper_change.py* cambia las claves de 'Wallpaper' y 'Picture', del Registry, a la imagen del parametro
 
 NMAP
 >*python_nmap.py* 
 
 Psutil
+> *system_info.py*<br>
+    platform, process and system utilities
 
-> *system_info.py*
->
-> platform, process and system utilities
 
-- *usb_lookup.py* de 'Preston Miller and Chapin Bryce'
-- *wallpaper_change.py* cambia las claves de 'Wallpaper' y 'Picture', del Registry, a la imagen del parametro
+
 
 ## Enlaces/Links
 
