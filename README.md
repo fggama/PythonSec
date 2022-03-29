@@ -25,7 +25,7 @@ Subprocess
 
 Winreg
 >- *programs_list_2.py* winreg
->- *wallpaper_change.py* cambia las claves de 'Wallpaper' y 'Picture', del Registry, a la imagen del parametro
+>- *wallpaper_change.py* cambia las claves de 'Wallpaper' y 'Picture', del Registry
 
 NMAP
 >*python_nmap.py* 
